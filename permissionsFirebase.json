@@ -2,7 +2,7 @@
   "type": "service_account",
   "project_id": "yt-12f97",
   "private_key_id": "pricate key id",
-  "private_key": "-----BEGIN PRIVATE KEY-----\"
+  "private_key": "-----BEGIN PRIVATE KEY-----\",
   "client_email": "xxx.gserviceaccount.com",
   "client_id": "clientid",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",

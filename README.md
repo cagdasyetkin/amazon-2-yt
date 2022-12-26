@@ -1,3 +1,8 @@
+# What is this project about?
+
+This is an e-commerce web application trying to clone the interface of Amazon, using React JS + Tailwind CSS
+
+
 # Installation Steps
 
 
